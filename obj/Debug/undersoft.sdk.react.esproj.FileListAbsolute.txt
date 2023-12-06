@@ -1,0 +1,1 @@
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\src\Undersoft.SoftwareDevelopmentKit.React\src\Undersoft.SDK.React\obj\Debug\undersoft.sdk.react.esproj.CoreCompileInputs.cache
